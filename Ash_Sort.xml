@@ -15,7 +15,7 @@
     <modules>
         <Ash_Sort>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
         </Ash_Sort>
     </modules>
 </config>
